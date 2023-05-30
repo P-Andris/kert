@@ -1,0 +1,7 @@
+AZONOSÍTÓ/NÉV/KOR/ÁR
+no01/Növény 1/2/300
+no02/Növény 2/1/500
+no03/Növény 3/1/340
+no04/Növény 4/4/1000
+no01/Növény 1/10/480
+no03/Növény 3/5/600
